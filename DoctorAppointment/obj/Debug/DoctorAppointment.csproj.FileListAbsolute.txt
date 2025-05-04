@@ -1,0 +1,11 @@
+C:\Users\hp\source\repos\DoctorAppointment\DoctorAppointment\bin\Debug\DoctorAppointment.exe.config
+C:\Users\hp\source\repos\DoctorAppointment\DoctorAppointment\bin\Debug\DoctorAppointment.exe
+C:\Users\hp\source\repos\DoctorAppointment\DoctorAppointment\bin\Debug\DoctorAppointment.pdb
+C:\Users\hp\source\repos\DoctorAppointment\DoctorAppointment\obj\Debug\DoctorAppointment.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\DoctorAppointment\DoctorAppointment\obj\Debug\DoctorAppointment.Dashboard.resources
+C:\Users\hp\source\repos\DoctorAppointment\DoctorAppointment\obj\Debug\DoctorAppointment.Form1.resources
+C:\Users\hp\source\repos\DoctorAppointment\DoctorAppointment\obj\Debug\DoctorAppointment.Properties.Resources.resources
+C:\Users\hp\source\repos\DoctorAppointment\DoctorAppointment\obj\Debug\DoctorAppointment.csproj.GenerateResource.cache
+C:\Users\hp\source\repos\DoctorAppointment\DoctorAppointment\obj\Debug\DoctorAppointment.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\DoctorAppointment\DoctorAppointment\obj\Debug\DoctorAppointment.exe
+C:\Users\hp\source\repos\DoctorAppointment\DoctorAppointment\obj\Debug\DoctorAppointment.pdb
